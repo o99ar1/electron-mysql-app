@@ -1,0 +1,23 @@
+{
+  "name": "eljs-app",
+  "version": "1.0.0",
+  "description": "تطبيق إلكترون تفاعلي بواجهة حديثة",
+  "main": "main/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "desktop",
+    "app"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "dependencies": {
+    "electron-store": "^10.1.0"
+  }
+}
